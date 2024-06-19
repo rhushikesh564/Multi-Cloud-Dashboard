@@ -1,0 +1,7 @@
+Below is the new Client ID and Client Secret for your application.
+
+This information also appears on the Configuration tab in the Details section for the application.
+
+ 
+Client ID4977189229964595b335b07953e67a66
+Client Secrete9786c8f-4086-485b-9f5b-1ee6ed0d027b
